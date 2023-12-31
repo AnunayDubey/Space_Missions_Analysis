@@ -6,10 +6,10 @@ A dynamic dashboard on space missions, crafted as part of the Maven Analytics ch
 
 # Question Answered Through Analysis:
 
-How have rocket launches trended across time? Has mission success rate increased?
-Which countries have had the most successful space missions? Has it always been that way?
-Which rocket has been used for the most space missions? Is it still active?
-Are there any patterns you can notice with the launch locations?
+-How have rocket launches trended across time? Has mission success rate increased?
+-Which countries have had the most successful space missions? Has it always been that way?
+-Which rocket has been used for the most space missions? Is it still active?
+-Are there any patterns you can notice with the launch locations?
 
 # Insights
 1.In 2020, we witnessed a record-breaking 157 space missions
