@@ -12,20 +12,17 @@ A dynamic dashboard on space missions, crafted as part of the Maven Analytics ch
 -Are there any patterns you can notice with the launch locations?
 
 # Insights
-1.In 2020, we witnessed a record-breaking 157 space missions
-﻿
-2.An impressive 92% success rate among the analyzed missions.
+-Experiencing an unparalleled triumph with 122 missions, the industry witnessed an extraordinary accomplishment in 2021 
 
-3. Top-performing organizations: ULA, NASA, SpaceX, Boeing, General Dynamics, and US Air Force.
+- Despite a slight dip in 2022 to 77 missions, the commitment to success remains robust 
 
- 4.Cosmos 3M and Voskhod spacecraft took the lead with the highest number of missions.
+- In 2020, the industry faced challenges with 8 mission failures, but a remarkable recovery followed in 2021 and 2022 
 
- 5.78.19% of rockets in the dataset have been retired.
+- The China Aerospace Science and Technology Corporation (CASC) emerged as the frontrunner with an impressive success rate of 97.49% 
 
- 6.Energiya Buran and Polyus rockets emerged as the most expensive.
+- The industry boasts an overall success rate of 94.62%, emphasizing reliability and proficiency. 
 
- 7.Success rates soared over 90% for Russia, USA, China, France, Japan, and the Pacific Ocean.
+- Falcon 9 Block 5, with an outstanding 111 missions, and Ariane 5 ECA, with a commendable 80 missions, lead the pack in rocket performance. 
 
- 8.India and Kazakhstan followed closely with success rates over 80%.
-
- 9.Iran faced challenges, securing a 40% success rate – a testament to the complexities of space missions.
+- CASC, SpaceX, NASA, and Arianespace stand out as the top-performing organizations, exemplifying leadership and innovation. 
+ 
